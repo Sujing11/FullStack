@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "barlow";
+    src: url("/fonts/Barlow-SemiBold.ttf");
+    font-family: "lato";
+    src: url("/fonts/Lato-Regular.ttf");
+    font-family: "merriweather";
+    src: url("/fonts/Merriweather-Regular.ttf");
+  }
+
+/* variables de entorno */
+:root{
+    --morazul: #0E0223;
+    --verde: #0A2E35;
+    --manzana: #A1C518;
+    --naranja: #F8AB1B;
+    --fresa: #E20613;
+
+    --logotipo:'Barlow';
+    --titulos: 'Merriweather';
+    --parrafos: 'lato';
+}
+
